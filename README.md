@@ -1,0 +1,2 @@
+# Palais-de-rose
+hotel
